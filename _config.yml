@@ -3,3 +3,4 @@ name: Akhmad Zaki
 markdown: kramdown
 title: Akhmad Zaki, A Passionate Learner
 description: A website dedicated for my project on programming
+permalink: /blog/:year/:month/:day/:title
